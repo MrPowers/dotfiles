@@ -1,0 +1,5 @@
+set gcr=a:blinkon0
+set guifont=Menlo\ Regular:h16
+set lines=100 columns=150
+let NERDTreeShowLineNumbers=1
+let g:disable_markdown_autostyle=1
